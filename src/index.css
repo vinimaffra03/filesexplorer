@@ -1,0 +1,26 @@
+.content {
+  display: block;
+  align-items: center;
+  text-align: center;
+  color: black;
+  margin: 15em 0;
+  padding: 15em;
+  background-image: url("https://preview.redd.it/hbxy0q8sbyf71.png?width=640&crop=smart&auto=webp&s=14e6b46c58c749a812547a9ecc5c7bed3d3d9a04");
+  background-repeat: no-repeat;
+  background-position: 50% 1em;
+  background-size: 50em;
+}
+
+.content h1 {
+  font-size: 4em;
+}
+
+.list a  {
+  color: blue;
+  font-size: 2em;
+  text-decoration: none;
+}
+
+.list {
+  list-style: none;
+}
